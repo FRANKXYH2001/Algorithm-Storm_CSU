@@ -1,2 +1,2 @@
 # Algorithm-Storm_CSU
-T
+This is the test verision of the coding demo of CSU Algorithm Storm
