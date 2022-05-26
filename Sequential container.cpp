@@ -6,7 +6,7 @@
 
 using namespace std;
 
-void introduction_of_Sequential() {
+int main() {
     /*-------------------------------------------------------------------------------------*/
     /*  STL容器常用方法(method)
      *  .empty()   // 判断当前容器是否为空
@@ -49,6 +49,7 @@ void introduction_of_Sequential() {
     int first_of_v1 = v1.front(); // 获取当前v1容器的第一个元素，返回值为vector容器定义类型
     int last_of_v1 = v1.back(); // 获取当前v1容器的最后一个元素，返回值为vector容器定义类型
     /*-------------------------------------------------------------------------------------*/
+    return 0;
 
 }
 
